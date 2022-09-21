@@ -21,13 +21,13 @@ You can also view the notebooks with all solutions provided just clicking on the
 Or view them in `nbviewer`:
 
 Class materials
-* [01_Analysis_Environment](https://nbviewer.org/github.com/dcdace/COGNESTIC-fMRI/blob/master/01_Analysis_Environment.ipynb)
-* [02-fMRI_Data_Management](https://nbviewer.org/github.com/dcdace/COGNESTIC-fMRI/blob/master/02-fMRI_Data_Management.ipynb)
-* [03-fMRI-Quality-Control](https://nbviewer.org/github.com/dcdace/COGNESTIC-fMRI/blob/master/03-fMRI-Quality-Control.ipynb)
+* [01_Analysis_Environment](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/01_Analysis_Environment.ipynb)
+* [02-fMRI_Data_Management](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/02-fMRI_Data_Management.ipynb)
+* [03-fMRI-Quality-Control](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/03-fMRI-Quality-Control.ipynb)
 
 Hands-on
-* [Hands-On_01_PyBIDS](https://nbviewer.org/github.com/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_01_PyBIDS.ipynb)
-* [Hands-On_02_Neuroimaging_data_manipulation](https://nbviewer.org/github.com/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_02_Neuroimaging_data_manipulation.ipynb)
+* [Hands-On_01_PyBIDS](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_01_PyBIDS.ipynb)
+* [Hands-On_02_Neuroimaging_data_manipulation](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_02_Neuroimaging_data_manipulation.ipynb)
 
 ___
 ## Download the notebooks and run on your computer
