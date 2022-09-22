@@ -1,8 +1,3 @@
-.. in progress .. 
-
-.. this repository is not yet complete! ... 
-
-
 # fMRI analysis workshop
 
 Materials for the **"fMRI analysis"** workshop at the [Cognitive Neuroscience Skills Training In Cambridge](https://www.mrc-cbu.cam.ac.uk/conferences/cognestic2022/). 
