@@ -8,12 +8,12 @@
 Materials for the **"fMRI analysis"** workshop at the [Cognitive Neuroscience Skills Training In Cambridge](https://www.mrc-cbu.cam.ac.uk/conferences/cognestic2022/). 
 ___
 
-## Interactive notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/59c39bf663bf4fd9602ae46f79302c5ccc9a6b94?urlpath=tree/hands-on)
+## Interactive notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/15de415beed932e7a00e81ea7e79634d0fff3bdd?urlpath=tree/hands-on)
 [MyBinder.org ](https://mybinder.org)  is a service that allows you to run Jupyter notebooks directly online. However, this service comes with a restricted computational environment (1-2GB of RAM). This means, many notebooks might be very slow and some might even crash, due to not enough memory.
 
 You can use this approach to run and test most of the notebooks. To access the MyBinder instance, click on the badge below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/59c39bf663bf4fd9602ae46f79302c5ccc9a6b94?urlpath=tree/hands-on)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/15de415beed932e7a00e81ea7e79634d0fff3bdd?urlpath=tree/hands-on)
 ___
 ## Static notebooks
 You can also view the notebooks with all solutions provided just clicking on them in the [notebooks](https://github.com/dcdace/fMRI_training/tree/main/notebooks) directory. 
