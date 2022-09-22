@@ -18,10 +18,10 @@ from nilearn.glm.first_level import FirstLevelModel
 # ======================================================================
 # DEFINE PATHS
 # ======================================================================
-ds = '/imaging/correia/dace/training/summer-school/Example_v03/FaceRecognition' #sys.argv[1] # dataset location
-sID = '14' #sys.argv[2].split("sub-")[1]  
+ds = sys.argv[1] # dataset location
+sID = sys.argv[2].split("sub-")[1]  
 bids_path = os.path.join(ds, 'data/bids')
-outdir = os.path.join(ds, 'results/first-level-2mm', 'sub-' + sID)
+outdir = os.path.join(ds, 'results/first-level', 'sub-' + sID)
 if not os.path.exists(outdir):
     os.makedirs(outdir)
 
@@ -41,27 +41,15 @@ fmri_glm = FirstLevelModel(t_r = TR,
                            hrf_model = 'spm',
                            drift_model = 'Cosine',
                            high_pass = 1./128,
-                           slice_time_ref = 0.5, 
-                           smoothing_fwhm = 4,
+                           slice_time_ref = TR/2, 
+                           smoothing_fwhm = 6,
                            signal_scaling = False,
                            minimize_memory = False)
 
 # Get the preprocessed functional files
 bold = layout.get(subject=sID, datatype='func', space='MNI152NLin2009cAsym', desc='preproc', extension='.nii.gz', \
                  return_type='filename')
-"""
-# -------
-# To resample at BOLD image level, uncomment this block
-from nilearn.datasets import load_mni152_template
-template = load_mni152_template()
 
-from nilearn.image import resample_to_img
-resampled_images = []
-for img in bold:
-    resampled_images.append(resample_to_img(img, template))
-bold = resampled_images
-# -------
-"""
 # Get the event files
 events = layout.get(subject=sID, datatype='func', suffix='events', extension=".tsv", return_type='filename')
 # Get the confounds and select which ones to include in the design
@@ -89,7 +77,7 @@ for design_matrix in design_matrices:
                 'UnfamiliarFamous': pad_vector([-1, 0, 0, 1], n_columns),
                 'FacesScrambled': pad_vector([1, 0, -2, 1], n_columns),
                 'ScrambledFaces': pad_vector([-1, 0, 2, -1], n_columns),
-                'EffectsOfInterest': np.eye(n_columns)[:4]}
+                'EffectsOfInterest': np.eye(n_columns)[[0,2,3]]}
     contrast_list.append(contrasts)
 
 # Compute the contrasts
