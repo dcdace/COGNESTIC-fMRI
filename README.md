@@ -2,10 +2,12 @@ Materials for the **"fMRI analysis"** workshop at the [Cognitive Neuroscience Sk
 ____
 
 # Data Management
+
 ## In class
+
 * [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/class-materials/01_slides_data-management.pdf)
 * Notebook: [Analysis Environment](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/01_nb_Analysis_Environment.ipynb)
-* Notebook: [fMRI Data Management](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/02_nb_-fMRI_Data_Management.ipynb)
+* Notebook: [fMRI Data Management](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/02_nb_fMRI_Data_Management.ipynb)
 
 ## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
 
@@ -13,18 +15,20 @@ ____
 * [Neuroimaging data manipulation](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_02_Neuroimaging_data_manipulation.ipynb)
 
 # MRI Data Quality Control & Pre-processing
+
 ## In class
 * [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/class-materials/02_slides_QC-and-Preprocessing.pdf)
-* Notebook: [fMRI Quality Control](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/03_nb_-fMRI-Quality-Control.ipynb)
+* Notebook: [fMRI Quality Control](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/03_nb_fMRI-Quality-Control.ipynb)
 
 # Statistical Analysis & Reporting
+
 ## In class
 * [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/class-materials/03_slides_Statistical-Analysis.pdf)
 * Notebook: [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/04_nb_Subject-Level-Analysis.ipynb)
 * Notebook: [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/05_nb_Group-Level-Analysis.ipynb)
 
 ## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
-* [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_03_Subject-Level-Analysis.ipynb.ipynb)
+* [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_03_Subject-Level-Analysis.ipynb)
 * [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_04_Group-Level-Analysis.ipynb)
 ___
 
@@ -44,7 +48,7 @@ Or view them in `nbviewer`:
 
 * [Hands-On_01_PyBIDS](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_01_PyBIDS.ipynb)
 * [Hands-On_02_Neuroimaging_data_manipulation](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_02_Neuroimaging_data_manipulation.ipynb)
-* [Hands-On_03_Subject-Level-Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_03_Subject-Level-Analysis.ipynb.ipynb)
+* [Hands-On_03_Subject-Level-Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_03_Subject-Level-Analysis.ipynb)
 * [Hands-On_04_Group-Level-Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_04_Group-Level-Analysis.ipynb)
 
 ___
