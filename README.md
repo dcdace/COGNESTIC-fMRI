@@ -28,8 +28,8 @@
 * Notebook: [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/05_nb_Group-Level-Analysis.ipynb)
 
 ## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
-* [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_03_Subject-Level-Analysis.ipynb)
-* [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_04_Group-Level-Analysis.ipynb)
+* [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/04_nb_Subject-Level-Analysis.ipynb?flush_cache=true)
+* [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/05_nb_Group-Level-Analysis.ipynb?flush_cache=true)
 ___
 
 # Hands-On Notebooks
