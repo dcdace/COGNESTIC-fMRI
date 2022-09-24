@@ -2,7 +2,7 @@
 
 You can access the hands-on notebooks in three ways:
 
-## Interactive through MyBinder
+## Interactive through MyBinder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
 [MyBinder.org ](https://mybinder.org)  is a service that allows you to run Jupyter notebooks directly online. However, this service comes with a restricted computational environment (1-2GB of RAM). This means, many notebooks might be very slow and some might even crash, due to not enough memory. You can use this approach to run and test most of the notebooks. To access the MyBinder instance, click on the badge below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
