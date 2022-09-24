@@ -3,9 +3,9 @@ ____
 
 # Data Management
 ## In class
-* [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/cognestic_01_data-management.pdf)
-* Notebook: [Analysis Environment](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/01_Analysis_Environment.ipynb)
-* Notebook: [fMRI Data Management](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/02-fMRI_Data_Management.ipynb)
+* [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/class-materials/cognestic_01_data-management.pdf)
+* Notebook: [Analysis Environment](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/01_Analysis_Environment.ipynb)
+* Notebook: [fMRI Data Management](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/02-fMRI_Data_Management.ipynb)
 
 ## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
 
@@ -14,14 +14,14 @@ ____
 
 # MRI Data Quality Control & Pre-processing
 ## In class
-* [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/cognestic_02_QC-and-Preprocessing.pdf)
-* Notebook: [fMRI Quality Control](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/03-fMRI-Quality-Control.ipynb)
+* [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/class-materials/cognestic_02_QC-and-Preprocessing.pdf)
+* Notebook: [fMRI Quality Control](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/03-fMRI-Quality-Control.ipynb)
 
 # Statistical Analysis & Reporting
 ## In class
-* [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/cognestic_03_Statistical-Analysis.pdf)
-* Notebook: [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/04_Subject-Level-Analysis.ipynb)
-* Notebook: [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/05_Group-Level-Analysis.ipynb)
+* [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/class-materials/cognestic_03_Statistical-Analysis.pdf)
+* Notebook: [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/04_Subject-Level-Analysis.ipynb)
+* Notebook: [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/05_Group-Level-Analysis.ipynb)
 
 ## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
 * [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_03_Subject-Level-Analysis.ipynb.ipynb)

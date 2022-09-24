@@ -27,3 +27,4 @@ dependencies:
     - nipype
     - nistats
     - pybids
+    - plotly
