@@ -19,9 +19,12 @@ from nilearn.glm.first_level import FirstLevelModel
 # DEFINE PATHS
 # ======================================================================
 ds = sys.argv[1] # dataset location
-sID = sys.argv[2].split("sub-")[1]  
+sID = sys.argv[2].split("sub-")[1] 
+
+model_name = 'first-level'
+
 bids_path = os.path.join(ds, 'data/bids')
-outdir = os.path.join(ds, 'results/first-level', 'sub-' + sID)
+outdir = os.path.join(ds, 'results', model_name, 'sub-' + sID)
 if not os.path.exists(outdir):
     os.makedirs(outdir)
 
@@ -90,3 +93,43 @@ for stats in stats_type:
         # Save results following BIDS standart
         res_name = os.path.basename(bold[0]).split("run")[0]
         stats_map.to_filename(os.path.join(outdir, res_name + 'desc-' + contrast_id + '_' + stats + '.nii.gz'))
+
+# ======================================================================
+# CREATE THIS MODEL'S dataset_description.json FILE
+# This is needed to use the results directory as BIDS data. 
+# We will save our model parameters in the file as well, which is very useful
+# ======================================================================
+
+jason_file = os.path.join(ds, 'results', model_name, "dataset_description.json")
+
+if not os.path.exists(jason_file):
+    import json
+    import datetime
+    from importlib.metadata import version
+
+    nilearn_version = version('nilearn')
+    date_created = datetime.datetime.now()
+    
+    # Data to be written
+    content = {
+        "Name": "First-level GLM analysis",
+        "DatasetType": "results",
+        "GeneratedBy": [
+            {
+                "Name": "Nilearn",
+                "Version": nilearn_version,
+                "CodeURL": "https://nilearn.github.io"
+            }
+        ],    
+        "Date": date_created,
+        "FirstLevelModel": [
+            fmri_glm.get_params()
+        ], 
+    }
+    
+    # Serializing json
+    json_object = json.dumps(content, indent=4, default=str)
+    
+    # Writing to .json
+    with open(jason_file, "w") as outfile:
+        outfile.write(json_object)
