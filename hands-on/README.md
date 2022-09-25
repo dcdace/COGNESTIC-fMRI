@@ -12,10 +12,10 @@ You can also view the hands-on notebooks with all solutions provided just clicki
 
 Or view them in `nbviewer`:
 
-* [Hands-On_01_PyBIDS](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_01_PyBIDS.ipynb)
-* [Hands-On_02_Neuroimaging_data_manipulation](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_02_Neuroimaging_data_manipulation.ipynb)
-* [Hands-On_03_Subject-Level-Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_03_Subject-Level-Analysis.ipynb.ipynb)
-* [Hands-On_04_Group-Level-Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_04_Group-Level-Analysis.ipynb)
+* [Hands-On_01_PyBIDS](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_01_PyBIDS.ipynb?flush_cache=true)
+* [Hands-On_02_Neuroimaging_data_manipulation](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_02_Neuroimaging_data_manipulation.ipynb?flush_cache=true)
+* [Hands-On_03_Subject-Level-Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/04_nb_Subject-Level-Analysis.ipynb?flush_cache=true)
+* [Hands-On_04_Group-Level-Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/05_nb_Group-Level-Analysis.ipynb?flush_cache=true)
 
 ___
 ## Download the notebooks and run on your computer
