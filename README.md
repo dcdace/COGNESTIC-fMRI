@@ -11,8 +11,8 @@
 
 ## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/658cf55b3dfb3369d7d0dfb46e9852d9851b5de1?urlpath=tree/hands-on)
 
-* [PyBIDS](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_01_PyBIDS.ipynb)
-* [Neuroimaging data manipulation](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_02_Neuroimaging_data_manipulation.ipynb)
+* [PyBIDS](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_01_PyBIDS.ipynb?flush_cache=true)
+* [Neuroimaging data manipulation](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_02_Neuroimaging_data_manipulation.ipynb?flush_cache=true)
 
 # MRI Data Quality Control & Pre-processing
 
@@ -28,8 +28,8 @@
 * Notebook: [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/05_nb_Group-Level-Analysis.ipynb?flush_cache=true)
 
 ## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/658cf55b3dfb3369d7d0dfb46e9852d9851b5de1?urlpath=tree/hands-on)
-* [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/04_nb_Subject-Level-Analysis.ipynb?flush_cache=true)
-* [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/05_nb_Group-Level-Analysis.ipynb?flush_cache=true)
+* [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_03_Subject-Level-Analysis.ipynb?flush_cache=true)
+* [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_04_Group-Level-Analysis.ipynb?flush_cache=true)
 ___
 
 # Hands-On Notebooks
