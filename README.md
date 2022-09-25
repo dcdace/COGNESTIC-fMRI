@@ -9,7 +9,7 @@
 * Notebook: [Analysis Environment](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/01_nb_Analysis-Environment.ipynb?flush_cache=true)
 * Notebook: [fMRI Data Management](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/02_nb_Data-Management.ipynb?flush_cache=true)
 
-## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
+## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/7e0bbdb9bcec4cb0b7c50a7f76f6834d94d398cc?urlpath=tree/hands-on)
 
 * [PyBIDS](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_01_PyBIDS.ipynb)
 * [Neuroimaging data manipulation](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/hands-on/Hands-On_02_Neuroimaging_data_manipulation.ipynb)
@@ -27,7 +27,7 @@
 * Notebook: [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/04_nb_Subject-Level-Analysis.ipynb?flush_cache=true)
 * Notebook: [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/05_nb_Group-Level-Analysis.ipynb?flush_cache=true)
 
-## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
+## Hands-on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/7e0bbdb9bcec4cb0b7c50a7f76f6834d94d398cc?urlpath=tree/hands-on)
 * [Subject Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/04_nb_Subject-Level-Analysis.ipynb?flush_cache=true)
 * [Group Level Analysis](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/05_nb_Group-Level-Analysis.ipynb?flush_cache=true)
 ___
@@ -39,7 +39,7 @@ You can access the hands-on notebooks in three ways:
 ## Interactive through MyBinder
 [MyBinder.org ](https://mybinder.org)  is a service that allows you to run Jupyter notebooks directly online. However, this service comes with a restricted computational environment (1-2GB of RAM). This means, many notebooks might be very slow and some might even crash, due to not enough memory. You can use this approach to run and test most of the notebooks. To access the MyBinder instance, click on the badge below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/3c365aa66f89ad79bbb8b4c267ef03adbf2d0506?urlpath=tree/hands-on)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dcdace/COGNESTIC-fMRI/7e0bbdb9bcec4cb0b7c50a7f76f6834d94d398cc?urlpath=tree/hands-on)
 ___
 ## Static notebooks
 You can also view the hands-on notebooks with all solutions provided just clicking on them in the [hands-on](https://github.com/dcdace/COGNESTIC-fMRI/tree/master/hands-on) directory. 
