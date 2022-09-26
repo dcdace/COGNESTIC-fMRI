@@ -1,5 +1,5 @@
 #!/bin/sh
-singularity run --cleanenv -B /imaging/correia/dace/training/summer-school/Example_v03/FaceRecognition:/myfMRI \
+singularity run --cleanenv -B /imaging/correia/da05/workshops/2022-09-COGNESTIC/Example_v03/FaceRecognition:/myfMRI \
     /imaging/local/software/singularity_images/fmriprep/fmriprep-21.0.1.simg \
     /myfMRI/data/bids /myfMRI/data/bids/derivatives/fmriprep \
     --work-dir /myfMRI/data/work/fmriprep \

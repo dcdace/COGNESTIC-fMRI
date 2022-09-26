@@ -1,6 +1,6 @@
 #!/bin/bash
-d_path="/imaging/correia/dace/training/summer-school/Example_v03/FaceRecognition/data/dicom/"
-o_path="/imaging/correia/dace/training/summer-school/Example_v03/FaceRecognition/"
+d_path="/imaging/correia/da05/workshops/2022-09-COGNESTIC/Example_v03/FaceRecognition/data/dicom/"
+o_path="/imaging/correia/da05/workshops/2022-09-COGNESTIC/Example_v03/FaceRecognition/"
 sid="01"
 # -d, --dicom_dir_template
 # -o, --outdir

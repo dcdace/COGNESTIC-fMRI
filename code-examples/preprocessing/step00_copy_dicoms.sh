@@ -5,7 +5,7 @@
 set -eu
 
 sourcepath="/mridata/cbu/"
-destpath="/imaging/correia/dace/training/summer-school/Example_v03/FaceRecognition/data/dicom/"
+destpath="/imaging/correia/da05/workshops/2022-09-COGNESTIC/Example_v03/FaceRecognition/data/dicom/"
 
 
 CBUid=("CBU090942" "CBU090938" "CBU090964" "CBU090928" "CBU090931" "CBU090935" "CBU090970" "CBU090956" "CBU090958" "CBU090968" "CBU090957" "CBU090966" "CBU090951" "CBU090945" "CBU090962" "CBU090967")

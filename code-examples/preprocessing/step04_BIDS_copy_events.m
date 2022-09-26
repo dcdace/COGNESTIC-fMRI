@@ -1,7 +1,7 @@
 % Copy event information from Wakeman's ds000117 to my ExampleStudy
 clearvars
-source = '/imaging/correia/dace/training/summer-school/Wakeman-ds/ds000117';
-destination = '/imaging/correia/dace/training/summer-school/Example_v03/FaceRecognition/data/bids';
+source = '/imaging/correia/da05/workshops/2022-09-COGNESTIC/Wakeman-ds/ds000117';
+destination = '/imaging/correia/da05/workshops/2022-09-COGNESTIC/Example_v03/FaceRecognition/data/bids';
 nsub = 16;
 nrun = 9;
 
