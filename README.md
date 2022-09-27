@@ -18,7 +18,7 @@
 
 ## In class
 * [Slides](https://github.com/dcdace/COGNESTIC-fMRI/blob/master/class-materials/02_slides_QC-and-Preprocessing.pdf)
-* Notebook: [fMRI Quality Control](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/03_nb_Quality-Control-and-Preprocessing.ipynb?flush_cache=true)
+* Notebook: [fMRI Quality Control & Preprocessing](https://nbviewer.org/github/dcdace/COGNESTIC-fMRI/blob/master/class-materials/03_nb_Quality-Control-and-Preprocessing.ipynb?flush_cache=true)
 
 # Statistical Analysis & Reporting
 
