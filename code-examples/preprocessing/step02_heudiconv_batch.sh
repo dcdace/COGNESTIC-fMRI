@@ -8,7 +8,7 @@ set -eu
 PROJECT_PATH=${1}
 
 # Where the dicoms are located
-DICOM_PATH=/imaging/correia/dace/training/summer-school/Example_v02/FaceRecognition/data/dicom/
+DICOM_PATH="$PROJECT_PATH"/data/dicom/
 # Where to output jobs
 JOB_DIR="$PROJECT_PATH"/data/work/bids/jobs
 mkdir -p "$JOB_DIR"

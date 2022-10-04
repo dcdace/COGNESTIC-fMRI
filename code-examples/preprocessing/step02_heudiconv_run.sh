@@ -24,7 +24,7 @@ echo DICOM path: "$DICOM_PATH""${subject}"/
 
 # Do the conversion using heudiconv
 heudiconv \
-    -d /imaging/correia/dace/training/summer-school/Example_v02/FaceRecognition/data/dicom/{subject}/*/*/*.dcm \
+    -d "$PROJECT_PATH"/data/dicom/{subject}/*/*/*.dcm \
     -o "${OUTDIR}" \
     -f "${PROJECT_PATH}"/code/preprocessing/heudiconv_heurisctic.py \
     -s "${subject}" \
